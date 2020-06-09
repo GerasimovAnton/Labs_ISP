@@ -1,0 +1,7 @@
+C:\Users\Anton\source\repos\ISP_LABA3\ISP_LABA3\bin\Debug\ISP_LABA3.exe.config
+C:\Users\Anton\source\repos\ISP_LABA3\ISP_LABA3\bin\Debug\ISP_LABA3.exe
+C:\Users\Anton\source\repos\ISP_LABA3\ISP_LABA3\bin\Debug\ISP_LABA3.pdb
+C:\Users\Anton\source\repos\ISP_LABA3\ISP_LABA3\obj\Debug\ISP_LABA3.csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\ISP_LABA3\ISP_LABA3\obj\Debug\ISP_LABA3.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\ISP_LABA3\ISP_LABA3\obj\Debug\ISP_LABA3.exe
+C:\Users\Anton\source\repos\ISP_LABA3\ISP_LABA3\obj\Debug\ISP_LABA3.pdb

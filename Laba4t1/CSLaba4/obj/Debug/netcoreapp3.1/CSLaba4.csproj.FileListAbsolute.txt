@@ -1,0 +1,13 @@
+C:\Users\Anton\source\repos\CSLaba4\CSLaba4\bin\Debug\netcoreapp3.1\CSLaba4.exe
+C:\Users\Anton\source\repos\CSLaba4\CSLaba4\bin\Debug\netcoreapp3.1\CSLaba4.deps.json
+C:\Users\Anton\source\repos\CSLaba4\CSLaba4\bin\Debug\netcoreapp3.1\CSLaba4.runtimeconfig.json
+C:\Users\Anton\source\repos\CSLaba4\CSLaba4\bin\Debug\netcoreapp3.1\CSLaba4.runtimeconfig.dev.json
+C:\Users\Anton\source\repos\CSLaba4\CSLaba4\bin\Debug\netcoreapp3.1\CSLaba4.dll
+C:\Users\Anton\source\repos\CSLaba4\CSLaba4\bin\Debug\netcoreapp3.1\CSLaba4.pdb
+C:\Users\Anton\source\repos\CSLaba4\CSLaba4\obj\Debug\netcoreapp3.1\CSLaba4.csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\CSLaba4\CSLaba4\obj\Debug\netcoreapp3.1\CSLaba4.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\CSLaba4\CSLaba4\obj\Debug\netcoreapp3.1\CSLaba4.AssemblyInfoInputs.cache
+C:\Users\Anton\source\repos\CSLaba4\CSLaba4\obj\Debug\netcoreapp3.1\CSLaba4.AssemblyInfo.cs
+C:\Users\Anton\source\repos\CSLaba4\CSLaba4\obj\Debug\netcoreapp3.1\CSLaba4.dll
+C:\Users\Anton\source\repos\CSLaba4\CSLaba4\obj\Debug\netcoreapp3.1\CSLaba4.pdb
+C:\Users\Anton\source\repos\CSLaba4\CSLaba4\obj\Debug\netcoreapp3.1\CSLaba4.genruntimeconfig.cache
